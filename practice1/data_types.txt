@@ -1,0 +1,14 @@
+Изменяемые (mutable) типы данных
+-list
+-dict
+-set
+-пользовательские объекты (экземпляры классов)
+
+Неизменяемые (immutable) типы данных
+-Числа: int, float
+-bool
+-str
+-tuple
+-bytes
+-range
+-NoneType (значение None)
