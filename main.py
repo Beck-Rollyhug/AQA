@@ -11,3 +11,4 @@ from practice2.triangle_check import task9
 from practice2.nested_functions import task10
 
 task10()
+# 123
